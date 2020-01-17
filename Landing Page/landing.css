@@ -1,0 +1,28 @@
+body{
+    font-family: 'Gelasio', serif;
+    background-color: blue;
+    color: azure;
+    text-align: center;
+    border: 10px solid aqua;
+    margin: 0% 0%;
+
+}
+p{
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+form{
+     font-size: 20px;
+     margin-bottom: 10px;
+}
+
+#sub{
+    background-color: blueviolet;
+    height: 30px;
+    width: 100px;
+    margin-top: 1%;
+    border-radius: 20px;
+}
